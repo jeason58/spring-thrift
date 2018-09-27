@@ -1,0 +1,2 @@
+# spring-thrift
+一个依托于spring框架的简单的thrift基础项目，为了更方便的开始一个基于thrift的RPC服务
